@@ -9,3 +9,7 @@ The corona-tracker-project will work of the foundation of the coronavirus-tracke
 - Advanced Software Construction in Java
 - Using Python for Research
 
+Along with these features, it will be developed using TDD, and thus will be documented with a fully-fledged testing framework.
+
+As such, one of the first steps will be to write appropriate test cases for the already-present foundation of the project.
+
